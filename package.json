@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JulnCaraveo/spiderverse/issues"
   },
-  "homepage": "https://github.com/JulnCaraveo/spiderverse#readme"
+  "homepage": "https://github.com/JulnCaraveo/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
 }
